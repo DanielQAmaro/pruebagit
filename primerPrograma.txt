@@ -1,0 +1,6 @@
+// este es mi primer programa
+#include <iostream>
+int main()
+{
+     return 0;
+}
